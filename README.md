@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pramodreddy0209@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://tan-mureil-6.tiiny.site/](https://drive.google.com/file/d/1lGYOA1a8-lnch7ys-T1Iqy0w5ou3plSR/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lGYOA1a8-lnch7ys-T1Iqy0w5ou3plSR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
