@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramod-mudugulla" alt="pramod-mudugulla" /></a> </p>
 
-- 🔭 I’m currently working on **Modern reactive Dashboard using Django and React + Vite**
+- 🔭 I’m currently working on **Voyage**
 
 - 🌱 I’m currently learning **Deep Learning and Big Data analysis**
 
