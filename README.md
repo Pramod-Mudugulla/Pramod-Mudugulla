@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Deep Learning and Big Data analysis**
 
-- 💬 Ask me about **Python, Machine Learning, MySql, Data Analysis**
+- 💬 Ask me about **Python, Java, Django, Springboot, Machine Learning, MySql, LLMs, Rest API, Backend Development**
 
 - 📫 How to reach me **pramodreddy0209@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lGYOA1a8-lnch7ys-T1Iqy0w5ou3plSR/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CMaCgLTHDUlEzIvub7yp3zTAyPKpiV-I/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
